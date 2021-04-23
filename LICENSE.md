@@ -286,12 +286,10 @@ link a "work that uses the Library" with the Library to produce a
 work containing portions of the Library, and distribute that work
 under terms of your choice, provided that the terms permit
 modification of the work for the customer's own use and reverse
-engineering for debugging such modifications.
-
-  You must give prominent notice with each copy of the work that the
-Library is used in it and that the Library and its use are covered by
-this License.  You must supply a copy of this License.  If the work
-during execution displays copyright notices, you must include the
+engineering for debugging such modifications. You must give prominent 
+notice with each copy of the work that theLibrary is used in it and that the 
+Library and its use are covered by this License. You must supply a copy of this License. 
+If the work during execution displays copyright notices, you must include the
 copyright notice for the Library among them, as well as a reference
 directing the user to the copy of this License.  Also, you must do one
 of these things:
