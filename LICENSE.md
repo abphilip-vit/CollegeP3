@@ -1,12 +1,12 @@
                   GNU LESSER GENERAL PUBLIC LICENSE
-                       Version 2.1, February 1999
+                     Version 2.1, February 1999
 
  Copyright (C) `2021` `Allen Ben Philipose`
  
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
-[This is the first released version of the Lesser GPL.  It also counts
+[This is the first released version of the Lesser GPL. It also counts
  as the successor of the GNU Library Public License, version 2, hence
  the version number 2.1.]
  
@@ -20,9 +20,10 @@
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
     Lesser General Public License for more details.
 
-    You should have received a copy of the GNU Lesser General Public
-    License along with this repo; if not, write to Allen Ben Philipose 
-    at allenalvin333@gmail.com.
+You should have received a copy of the GNU Lesser General Public
+License along with this repo; if not, write to Allen Ben Philipose 
+at allenalvin333@gmail.com.
+
 
                             Preamble
 
