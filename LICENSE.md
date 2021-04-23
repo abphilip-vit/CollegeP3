@@ -9,6 +9,20 @@
 [This is the first released version of the Lesser GPL.  It also counts
  as the successor of the GNU Library Public License, version 2, hence
  the version number 2.1.]
+ 
+    This repo contains free software; you can redistribute it and/or
+    modify it under the terms of the GNU Lesser General Public
+    License as published by the Free Software Foundation; either
+    version 2.1 of the License, or (at your option) any later version.
+
+    This repo is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+    Lesser General Public License for more details.
+
+    You should have received a copy of the GNU Lesser General Public
+    License along with this repo; if not, write to Allen Ben Philipose 
+    at allenalvin333@gmail.com.
 
                             Preamble
 
@@ -164,15 +178,15 @@ of it, thus forming a work based on the Library, and copy and
 distribute such modifications or work under the terms of Section 1
 above, provided that you also meet all of these conditions:
 
-    a) The modified work must itself be a software library.
+   a) The modified work must itself be a software library.
 
-    b) You must cause the files modified to carry prominent notices
+   b) You must cause the files modified to carry prominent notices
     stating that you changed the files and the date of any change.
 
-    c) You must cause the whole of the work to be licensed at no
+   c) You must cause the whole of the work to be licensed at no
     charge to all third parties under the terms of this License.
 
-    d) If a facility in the modified Library refers to a function or a
+   d) If a facility in the modified Library refers to a function or a
     table of data to be supplied by an application program that uses
     the facility, other than as an argument passed when the facility
     is invoked, then you must make a good faith effort to ensure that,
@@ -180,12 +194,12 @@ above, provided that you also meet all of these conditions:
     table, the facility still operates, and performs whatever part of
     its purpose remains meaningful.
 
-    (For example, a function in a library to compute square roots has
-    a purpose that is entirely well-defined independent of the
-    application.  Therefore, Subsection 2d requires that any
-    application-supplied function or table used by this function must
-    be optional: if the application does not supply it, the square
-    root function must still compute square roots.)
+   (For example, a function in a library to compute square roots has
+   a purpose that is entirely well-defined independent of the
+   application.  Therefore, Subsection 2d requires that any
+   application-supplied function or table used by this function must
+   be optional: if the application does not supply it, the square
+   root function must still compute square roots.)
 
 These requirements apply to the modified work as a whole.  If
 identifiable sections of that work are not derived from the Library,
@@ -283,7 +297,7 @@ copyright notice for the Library among them, as well as a reference
 directing the user to the copy of this License.  Also, you must do one
 of these things:
 
-    a) Accompany the work with the complete corresponding
+   a) Accompany the work with the complete corresponding
     machine-readable source code for the Library including whatever
     changes were used in the work (which must be distributed under
     Sections 1 and 2 above); and, if the work is an executable linked
@@ -295,7 +309,7 @@ of these things:
     Library will not necessarily be able to recompile the application
     to use the modified definitions.)
 
-    b) Use a suitable shared library mechanism for linking with the
+   b) Use a suitable shared library mechanism for linking with the
     Library.  A suitable mechanism is one that (1) uses at run time a
     copy of the library already present on the user's computer system,
     rather than copying library functions into the executable, and (2)
@@ -303,16 +317,16 @@ of these things:
     the user installs one, as long as the modified version is
     interface-compatible with the version that the work was made with.
 
-    c) Accompany the work with a written offer, valid for at
+   c) Accompany the work with a written offer, valid for at
     least three years, to give the same user the materials
     specified in Subsection 6a, above, for a charge no more
     than the cost of performing this distribution.
 
-    d) If distribution of the work is made by offering access to copy
+   d) If distribution of the work is made by offering access to copy
     from a designated place, offer equivalent access to copy the above
     specified materials from the same place.
 
-    e) Verify that the user has already received a copy of these
+   e) Verify that the user has already received a copy of these
     materials or that you have already sent this user a copy.
 
   For an executable, the required form of the "work that uses the
@@ -337,12 +351,12 @@ library, provided that the separate distribution of the work based on
 the Library and of the other library facilities is otherwise
 permitted, and provided that you do these two things:
 
-    a) Accompany the combined library with a copy of the same work
+   a) Accompany the combined library with a copy of the same work
     based on the Library, uncombined with any other library
     facilities.  This must be distributed under the terms of the
     Sections above.
 
-    b) Give prominent notice with the combined library of the fact
+   b) Give prominent notice with the combined library of the fact
     that part of it is a work based on the Library, and explaining
     where to find the accompanying uncombined form of the same work.
 
@@ -456,46 +470,3 @@ SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
 DAMAGES.
 
                      END OF TERMS AND CONDITIONS
-
-           How to Apply These Terms to Your New Libraries
-
-  If you develop a new library, and you want it to be of the greatest
-possible use to the public, we recommend making it free software that
-everyone can redistribute and change.  You can do so by permitting
-redistribution under these terms (or, alternatively, under the terms of the
-ordinary General Public License).
-
-  To apply these terms, attach the following notices to the library.  It is
-safest to attach them to the start of each source file to most effectively
-convey the exclusion of warranty; and each file should have at least the
-"copyright" line and a pointer to where the full notice is found.
-
-    <one line to give the library's name and a brief idea of what it does.>
-    Copyright (C) <year>  <name of author>
-
-    This library is free software; you can redistribute it and/or
-    modify it under the terms of the GNU Lesser General Public
-    License as published by the Free Software Foundation; either
-    version 2.1 of the License, or (at your option) any later version.
-
-    This library is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-    Lesser General Public License for more details.
-
-    You should have received a copy of the GNU Lesser General Public
-    License along with this library; if not, write to Allen Ben Philipose 
-    at allenalvin333@gmail.com.
-
-Also add information on how to contact you by electronic and paper mail.
-
-You should also get your employer (if you work as a programmer) or your
-school, if any, to sign a "copyright disclaimer" for the library, if
-necessary.  Here is a sample; alter the names:
-
-  Yoyodyne, Inc., hereby disclaims all copyright interest in the
-  library 'Frob' (a library for tweaking knobs) written by James Random
-  Hacker.
-
-  <signature of Ty Coon>, 1 April 1990
-  Ty Coon, President of Vice
